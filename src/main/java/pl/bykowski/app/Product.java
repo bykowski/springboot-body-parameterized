@@ -1,4 +1,4 @@
-package pl.bykowski.springbootbodyparameterized;
+package pl.bykowski.app;
 
 public class Product {
 

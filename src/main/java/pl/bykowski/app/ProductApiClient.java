@@ -1,4 +1,4 @@
-package pl.bykowski.springbootbodyparameterized;
+package pl.bykowski.app;
 
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
